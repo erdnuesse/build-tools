@@ -1,0 +1,7 @@
+MD5 (Mercurial-2.7.1-py2.7-macosx10.8.zip) = 75309c856349a0ea1125521e59bdf119
+MD5 (README.md) = 77fa89b85c30851aaf4b70fed56c86a3
+MD5 (git-1.8.3.2-intel-universal-snow-leopard.dmg) = 946c23e4906d942d9b994ceb886e1066
+MD5 (subversion-1.8.3.tar.bz2) = 7d7bd97347a4491e1ffb529563ce2e9e
+MD5 (xcode44auxtools6938114a.dmg) = b8f28bb4f631d21ebd10fc0f30ca6161
+MD5 (xcode462_cltools_10_86938259a.dmg) = 90c5db99a589c269efa542ff0272fc28
+MD5 (xcode4630916281a.dmg) = c5088782d9742314835af1c3ba3fe8e7
